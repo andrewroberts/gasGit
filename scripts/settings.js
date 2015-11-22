@@ -13,15 +13,15 @@ var SETTINGS = {
   },
   DEPENDENCY: { // things for dependency management
     LIST: {
-      URL: "https://script.google.com/macros/s/AKfycbwZ2Hht93wTNzvRmYINYF7obaOHciBXWcP_wAiEtyGq70_x3cI/exec"
+ //     URL: "https://script.google.com/macros/s/AKfycbwZ2Hht93wTNzvRmYINYF7obaOHciBXWcP_wAiEtyGq70_x3cI/exec"
     }
   },
   GIT: {
     COMMITTER: {
-      "name": "Bruce McPherson",
-      "email": "bruce@mcpher.com"
+      "name": "Andrew Roberts",
+      "email": "andrew@roberts.net"
     },
-    USERAGENT: "brucemcpherson",
+    USERAGENT: "andrewroberts",
     LIBRARIES: "libraries/",
     SCRIPTS: "scripts/"
   }
